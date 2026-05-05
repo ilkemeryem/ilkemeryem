@@ -42,7 +42,7 @@ Leveraging my background in databases and cybersecurity, I am actively focusing 
         <li>Developed a solid understanding of system security and low-level programming concepts.</li>
         <li>Passionate about reverse engineering and basic cryptography principles.</li>
       </ul>
-      <h4>:pure_maths: Mathematical Interests</h4>
+      <h4>:triangular_ruler: Mathematical Interests</h4>
       <ul>
         <li><strong>Linear Algebra</strong> — A deep academic interest in vector spaces, matrix theory, and dimensionality reduction techniques, which serve as the foundation of modern data science.</li>
       </ul>
@@ -90,6 +90,6 @@ Leveraging my background in databases and cybersecurity, I am actively focusing 
 
 <p align="center">
 
-  <a href="mailto:ilkemeryem13@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:ilkemeryem13@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook" alt="Email"></a>
 
 </p>
