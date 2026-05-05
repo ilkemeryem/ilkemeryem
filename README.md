@@ -78,7 +78,6 @@ Leveraging my background in databases and cybersecurity, I am actively focusing 
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-## :bar_chart: &nbsp;GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilkemeryem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
