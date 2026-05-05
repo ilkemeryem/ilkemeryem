@@ -88,3 +88,9 @@ Leveraging my background in databases and cybersecurity, I am actively focusing 
 <br />
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
+
+<p align="center">
+
+  <a href="mailto:ilkemeryem13@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</p>
