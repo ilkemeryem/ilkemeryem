@@ -14,7 +14,9 @@
 
 ## :technologist: &nbsp;About Me
 
-Merhaba! Ben **İlke Meryem Eybercioğlu**. Matematik ve Bilgisayar Bilimleri öğrencisiyim. Teori ile pratiğin kesişim noktalarına duyduğum merakla, matematiksel temellerimi güçlü yazılım becerileriyle birleştiriyorum. Geçmişte siber güvenlik ve veri tabanı yönetimi alanlarında edindiğim deneyimleri, şu anda tutkuyla odaklandığım **Veri Bilimi ve Yapay Zeka** alanlarında derinleşmek için birer basamak olarak kullanıyorum.
+Hello! I am **İlke Meryem Eybercioğlu**, an undergraduate student majoring in **Mathematics and Computer Science**. Driven by curiosity at the intersection of theory and practice, I bridge my strong mathematical foundations with software engineering skills. 
+
+Leveraging my background in databases and cybersecurity, I am actively focusing on deepening my expertise in **Data Science** and **Artificial Intelligence** to build impactful, data-driven solutions.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
@@ -25,24 +27,24 @@ Merhaba! Ben **İlke Meryem Eybercioğlu**. Matematik ve Bilgisayar Bilimleri ö
     <td width="50%" valign="top">
       <h4>:briefcase: Internship</h4>
       <ul>
-        <li><strong>Veribase (Yıldız Teknik Teknopark)</strong> — Database & SQL Developer Intern</li>
-        <li>İlişkisel veri tabanları yönetimi, karmaşık SQL sorguları optimizasyonu ve veri süreçleri üzerinde pratik deneyimler kazandım.</li>
+        <li><strong>Veribase (Yıldız Technical University Technopark)</strong> — Database & SQL Developer Intern</li>
+        <li>Gained hands-on experience in relational database management, optimizing complex SQL queries, and streamlining data workflows.</li>
       </ul>
       <h4>:mortar_board: Education</h4>
       <ul>
-        <li><strong>Mathematics & Computer Science</strong> (B.Sc.)</li>
-        <li>Teorik analiz, algoritma tasarımı ve bilgisayar mimarisi odaklı lisans eğitimi.</li>
+        <li><strong>B.Sc. in Mathematics & Computer Science</strong></li>
+        <li>Focusing on theoretical analysis, algorithm design, and computer architecture.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>:shield: Cybersecurity Focus</h4>
       <ul>
-        <li>Düşük seviyeli programlama (Low-Level Programming) ve sistem güvenliği alanlarında temel bilgi birikimi.</li>
-        <li>Tersine mühendislik ve kriptografi konseptlerine ilgi.</li>
+        <li>Developed a solid understanding of system security and low-level programming concepts.</li>
+        <li>Passionate about reverse engineering and basic cryptography principles.</li>
       </ul>
       <h4>:pure_maths: Mathematical Interests</h4>
       <ul>
-        <li><strong>Lineer Cebir (Linear Algebra)</strong> — Veri biliminin kalbi olan vektör uzayları, matris teorileri ve boyut indirgeme yöntemlerine karşı özel bir ilgi ve akademik sevgi.</li>
+        <li><strong>Linear Algebra</strong> — A deep academic interest in vector spaces, matrix theory, and dimensionality reduction techniques, which serve as the foundation of modern data science.</li>
       </ul>
     </td>
   </tr>
