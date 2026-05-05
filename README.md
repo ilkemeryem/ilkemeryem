@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=İlke%20Meryem%20Eybercioğlu&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Mathematics%20%26%20Computer%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist&descSize=15&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=İlke%20Meryem%20Eybercioğlu&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Mathematics%20%20%20Computer%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist&descSize=15&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Mathematics%20%26%20Computer%20Science%20Undergrad;Exploring%20Data%20Science%20%26%20AI%20%F0%9F%A7%A0;Passionate%20about%20Mathematical%20Modeling" alt="Typing SVG" /></a>
