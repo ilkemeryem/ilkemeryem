@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_KULLANICI_ADINIZ&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ilkemeryem&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
